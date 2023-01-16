@@ -52,3 +52,10 @@ Steps to upload on Hugging Face
 3. Host your fine-tuned model and app on the Hugging Face Platform
 
 Results
+
+Final Evaluation Metrics
+{'eval_loss': 0.6121830940246582,
+ 'eval_accuracy': 0.7665,
+ 'eval_runtime': 63.3118,
+ 'eval_samples_per_second': 31.59,
+ 'eval_steps_per_second': 3.949}
