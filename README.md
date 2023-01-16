@@ -6,6 +6,7 @@ Introduction
 This is my third project in turning ML models into actual applications other people can use. In this project, I create  an AI-Sentiment analysis web application using Gradio and Hugging face.
 
 Setup
+
 Install the required packages to be able to run the evaluation locally.
 
 You need to have Python3 on your system. Then you can clone this repo and being at the repo's root (root :: repo_name> ...) follow the steps below:
