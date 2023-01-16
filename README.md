@@ -1,5 +1,5 @@
 # Zindi-Challenge--Sentiment-Analysis
-Natural Language Processing -Sentiment Analysis
+Natural Language Processing -Sentiment Analysis (Bert_Base_Cased_ Model)
 
 Introduction
 
