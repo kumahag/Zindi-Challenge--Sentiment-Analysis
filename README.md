@@ -54,8 +54,8 @@ Steps to upload on Hugging Face
 Results
 
 Final Evaluation Metrics
-{'eval_loss': 0.6121830940246582,
- 'eval_accuracy': 0.7665,
- 'eval_runtime': 63.3118,
- 'eval_samples_per_second': 31.59,
- 'eval_steps_per_second': 3.949}
+{'eval_loss': 0.6083025932312012,
+ 'eval_accuracy': 0.758,
+ 'eval_runtime': 68.3237,
+ 'eval_samples_per_second': 29.272,
+ 'eval_steps_per_second': 3.659}
