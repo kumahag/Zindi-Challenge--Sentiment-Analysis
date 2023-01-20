@@ -51,11 +51,15 @@ Steps to upload on Hugging Face
 2. Download test- trainer folder from google Colab and save model on Hugging Face
 3. Host your fine-tuned model and app on the Hugging Face Platform
 
+You can find my Hugging face model at:https://huggingface.co/Mawulom/Fine-Tuned-Bert_Base_Cased_Sentiment_Analysis/blob/main/README.md
+
 Results
 
 Final Evaluation Metrics
-{'eval_loss': 0.6083025932312012,
- 'eval_accuracy': 0.758,
- 'eval_runtime': 68.3237,
+{'eval_loss': 0.6129302978515625,
+ 'eval_accuracy': 0.7615,
+ 'eval_runtime': 59.1046,
+ 'eval_samples_per_second': 33.838,
+ 'eval_steps_per_second': 4.23}
  'eval_samples_per_second': 29.272,
  'eval_steps_per_second': 3.659}
