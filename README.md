@@ -55,7 +55,7 @@ Files available for download are:
 
 **NLP_Primer_twitter_challenge.ipynb** - is a starter notebook to help you make your first submission on this challenge.
 
-Process
+**Process**
 
 1.This challenge is solved by applying my Data science knowledge to fine-tune a pretrained Hugging face model:
 First import data (test and train CSV from Zindi into Colab)
